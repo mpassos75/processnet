@@ -1,0 +1,3538 @@
+datax = `[
+    {
+      "COD": 10768,
+      "DESCRICAO": "ABRACADEIRA FLEX PA 6.6 100X390X7,6MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1523,
+      "DESCRICAO": "ABRACADEIRA FLEX PA 6.6 110X390X4,6MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108600,
+      "DESCRICAO": "ABRACADEIRA FLEX PA 6.6 150X535X13,1MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105804,
+      "DESCRICAO": "ABRACADEIRA FLEX PA 6.6 22X100X2,5MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 100
+    },
+    {
+      "COD": 102619,
+      "DESCRICAO": "ABRACADEIRA FLEX PA 6.6 35X150X3,6MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 100
+    },
+    {
+      "COD": 102564,
+      "DESCRICAO": "ABRACADEIRA FLEX PA 6.6 55X200X2,5MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110817,
+      "DESCRICAO": "ABRACADEIRA FLEX PA 6.6 80X285X3,5MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 100
+    },
+    {
+      "COD": 111051,
+      "DESCRICAO": "ABRACADEIRA FLEX PA 6.6 85X300X4,7MM",
+      "UND": "PTE",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108662,
+      "DESCRICAO": "ABRACADEIRA MANGOTE GALVANIZADA 20MM \u00D892-100MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108451,
+      "DESCRICAO": "ABRACADEIRA NYLON 300 MM X 7,6 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1523,
+      "DESCRICAO": "ABRACADEIRA NYLON 390 MM X 4,6 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112812,
+      "DESCRICAO": "ABRACADEIRA PVC COM BUCHA 1''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 100
+    },
+    {
+      "COD": 112813,
+      "DESCRICAO": "ABRACADEIRA PVC COM BUCHA 3/4''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 12
+    },
+    {
+      "COD": 109412,
+      "DESCRICAO": "ABRACADEIRA PVC ELETRODUTO 1/2in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104865,
+      "DESCRICAO": "ABRACADEIRA PVC ELETRODUTO 3/4in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 21
+    },
+    {
+      "COD": 107531,
+      "DESCRICAO": "ABRACADEIRA ROSCA S/FIM 1/2 (13X16MM)",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 5
+    },
+    {
+      "COD": 107813,
+      "DESCRICAO": "ABRACADEIRA ROSCA SEM FIM GALVANIZADA 9MM \u00D813-19MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109595,
+      "DESCRICAO": "ABRACADEIRA ROSCA SEM FIM INOX 14MM \u00EF\u00BE\u02DC32-44MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104017,
+      "DESCRICAO": "ABRACADEIRA TIPO D 1'' CUNHA GALV",
+      "UND": "PC",
+      "cc705": 100,
+      "cc743": ""
+    },
+    {
+      "COD": 100647,
+      "DESCRICAO": "ABRACADEIRA TIPO U (SIMPLES) 1.1/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113316,
+      "DESCRICAO": "ABRACADEIRA TIPO U (SIMPLES) 2.1/2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 105444,
+      "DESCRICAO": "ADAPTADOR CONDULETE PVC 3/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 24
+    },
+    {
+      "COD": 113643,
+      "DESCRICAO": "ADAPTADOR CTO FOGO PN25 BSP F&F 4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112154,
+      "DESCRICAO": "ADAPTADOR DE BASE E27 PARA E40 PORCELANA",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 8
+    },
+    {
+      "COD": 108706,
+      "DESCRICAO": "ADAPTADOR INTERNO 1.1/2in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 113646,
+      "DESCRICAO": "ADAPTADOR LGO FOGO PN25 BSP F&F 3in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106836,
+      "DESCRICAO": "ADAPTADOR LONGO RESERV PVC SOLD 50X1.1/2in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 110223,
+      "DESCRICAO": "ADAPTADOR PVC CONDULETE 1in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 40
+    },
+    {
+      "COD": 108218,
+      "DESCRICAO": "ADAPTADOR RES PVC CL15 SOLD BSP 50X1.1/2",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113621,
+      "DESCRICAO": "ADAPTADOR RES VAL PVC CL15 SOLD 25X3/4",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 113623,
+      "DESCRICAO": "ADAPTADOR RES VAL PVC CL15 SOLD 40x1.1/4",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 113625,
+      "DESCRICAO": "ADAPTADOR RES VAL PVC CL15 SOLD 60x2",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 106836,
+      "DESCRICAO": "ADAPTADOR RESV LG PVC CL15 SOLD 50X1.1/2",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 105864,
+      "DESCRICAO": "ADESIVO DUREPOXI 50 GR",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110298,
+      "DESCRICAO": "ADESIVO PLASTICO CPVC 175 G",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106868,
+      "DESCRICAO": "ADESIVO SELANTE PU 050G",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 12928,
+      "DESCRICAO": "ALAVANCA RETA CARB 1045 PONTA/PA 1,5M",
+      "UND": "PC",
+      "cc705": 12,
+      "cc743": ""
+    },
+    {
+      "COD": 104927,
+      "DESCRICAO": "ALAVANCA RETA CARB 1045 PONTA/PA 1,8M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 568,
+      "DESCRICAO": "ALICATE BICO CHATO ISOLADO 6in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105182,
+      "DESCRICAO": "ALICATE BOMBA AGUA ACO 1.000V 12in.",
+      "UND": "UN",
+      "cc705": 6,
+      "cc743": ""
+    },
+    {
+      "COD": 111851,
+      "DESCRICAO": "ANEL O RING NBR 70 SHORE A 15MM 2MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 107210,
+      "DESCRICAO": "ARAME ACO GALVANIZADO 2,76 MM ROL",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1310,
+      "DESCRICAO": "AREIA 0,60",
+      "UND": "M3",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105372,
+      "DESCRICAO": "ARMACAO ACO 1 ESTR AR-11 PESADA",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102596,
+      "DESCRICAO": "ARMACAO SECUNDARIA AR 11 ISOLADOR ROLDANA",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1642,
+      "DESCRICAO": "ARRUELA ALUMINIO ROSCA BSP ELETRODUTO 1in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10779,
+      "DESCRICAO": "ARRUELA ALUMINIO ROSCA BSP ELETRODUTO 2in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10781,
+      "DESCRICAO": "ARRUELA ELETRODUTO ALUM NAT 3/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 10795,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 FOGO 1/2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104688,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 FOGO 1/4''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10782,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 FOGO 3/16in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 60
+    },
+    {
+      "COD": 106438,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 FOGO 3/8''",
+      "UND": "CENTO",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101711,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 ZB 3/4''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 21
+    },
+    {
+      "COD": 10785,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 ZB 5/16''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10785,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 ZB 5/16in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10786,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 ZB 5/8''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10786,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 ZB 5/8in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 100593,
+      "DESCRICAO": "ARRUELA LISA CARB 1020 ZB 9/16''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101690,
+      "DESCRICAO": "ARRUELA LISA INOX 304 NAT 1/2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 12516,
+      "DESCRICAO": "ARRUELA LISA INOX 304 NAT 5/16''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108545,
+      "DESCRICAO": "ASSENTO SANITARIO ELEVADO 13,5 CM PPNE",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106241,
+      "DESCRICAO": "BATERIA ALCALINA 9V 250MAH",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114730,
+      "DESCRICAO": "BICO CORTE ACETILENO E OXIGENIO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 100067,
+      "DESCRICAO": "BLOCO CONT AUX 1NA1NF 3RV 1901 1E",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106424,
+      "DESCRICAO": "BLOCO CONT AUX 1NF ZB2 BE102",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 649,
+      "DESCRICAO": "BOMBA MANUAL GRAXA 500GR",
+      "UND": "PC",
+      "cc705": 4,
+      "cc743": ""
+    },
+    {
+      "COD": 11009,
+      "DESCRICAO": "BOTAO COMANDO IMPULSO 22 MM TERMOPLASTICO 1NF PRETO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11011,
+      "DESCRICAO": "BOTAO COMANDO IMPULSO 22 MM TERMOPLASTICO 2NA PRETO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 815,
+      "DESCRICAO": "BOTINA CADAR S/BIQ 43",
+      "UND": "PAR",
+      "cc705": 4,
+      "cc743": ""
+    },
+    {
+      "COD": 12882,
+      "DESCRICAO": "BROCA HELICOIDAL ACO RAPIDO HP 2 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 731,
+      "DESCRICAO": "BROCA HELICOIDAL ACO RAPIDO HP 2,5 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 721,
+      "DESCRICAO": "BROCA HELICOIDAL ACO RAPIDO HP 4 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 716,
+      "DESCRICAO": "BROCA HELICOIDAL ACO RAPIDO HP 5 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10552,
+      "DESCRICAO": "BROCA HELICOIDAL ACO RAPIDO HP 7 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 718,
+      "DESCRICAO": "BROCA HELICOIDAL ACO RAPIDO HP 8 MM",
+      "UND": "PC",
+      "cc705": 20,
+      "cc743": ""
+    },
+    {
+      "COD": 10527,
+      "DESCRICAO": "BROCA PONTA METAL DURO CONCRETO 4MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 734,
+      "DESCRICAO": "BROCA PONTA METAL DURO CONCRETO 5MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114235,
+      "DESCRICAO": "BROCA PONTA METAL DURO EXTRA LONGA CONCRETO 10MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112820,
+      "DESCRICAO": "BROCA VIDEA SDS PLUS 6 MM X 160 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1509,
+      "DESCRICAO": "BUCHA ALUMINIO ROSCA BSP ELETRODUTO 1in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112151,
+      "DESCRICAO": "BUCHA ALUMINIO ROSCA BSP ELETRODUTO 2in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1508,
+      "DESCRICAO": "BUCHA ALUMINIO ROSCA BSP ELETRODUTO 3/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107574,
+      "DESCRICAO": "BUCHA FIXACAO PARAFUSO PA 10X50MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105559,
+      "DESCRICAO": "BUCHA FIXACAO PARAFUSO PA 6X30MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105560,
+      "DESCRICAO": "BUCHA M8/M10 PARAFUSO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1985,
+      "DESCRICAO": "BUCHA NYLON 8X40 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 10
+    },
+    {
+      "COD": 105225,
+      "DESCRICAO": "BUCHA NYLON TIJOLO VAZADO 6 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 2178,
+      "DESCRICAO": "BUCHA RED CTA PVC CL15 SOLD 40X32",
+      "UND": "PC",
+      "cc705": 36,
+      "cc743": ""
+    },
+    {
+      "COD": 2179,
+      "DESCRICAO": "BUCHA RED CTA PVC CL15 SOLD 50X40",
+      "UND": "PC",
+      "cc705": 67,
+      "cc743": ""
+    },
+    {
+      "COD": 2180,
+      "DESCRICAO": "BUCHA RED CTA PVC CL15 SOLD 60X50",
+      "UND": "PC",
+      "cc705": 57,
+      "cc743": ""
+    },
+    {
+      "COD": 2183,
+      "DESCRICAO": "BUCHA RED LGA PVC CL15 SOLD 40X25MM",
+      "UND": "PC",
+      "cc705": 24,
+      "cc743": 1
+    },
+    {
+      "COD": 10182,
+      "DESCRICAO": "BUCHA RED LGA PVC CL15 SOLD 75X50",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108992,
+      "DESCRICAO": "BUCHA REDUCAO LONGA PVC SOLD 32X20MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 2185,
+      "DESCRICAO": "BUCHA REDUCAO LONGA PVC SOLD 50X25MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108282,
+      "DESCRICAO": "BUCHA REDUCAO PVC ROSCAVEL DN 1.1/2'' X 3/4''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 111174,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 0,6/1KV 35,0MM2 PT",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 30
+    },
+    {
+      "COD": 111173,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 0,6/1KV 50,0MM2 PT",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 104735,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 1,0 MM\u00B2 750 V VERMELHO",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101606,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 16 MM\u00B2 750 V PRETO",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111176,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 1X 16MM\u00B2 0,6/1KV PRETO",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105778,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 2,5 MM\u00B2 750 V AZUL CLARO",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102489,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 2,5 MM\u00B2 750 V BRANCO",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106798,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 750V 1,0 MM\u00B2 BR",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 113237,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 750V 10MM\u00B2 VD/AM",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 6
+    },
+    {
+      "COD": 101606,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 750V 16MM\u00B2 PT",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101610,
+      "DESCRICAO": "CABO COBRE FLEXIVEL 750V 25MM\u00B2 PT",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 16
+    },
+    {
+      "COD": 111181,
+      "DESCRICAO": "CABO COBRE MULTIPOLAR 2X1,5MM\u00B2 0,6/1KV",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111179,
+      "DESCRICAO": "CABO COBRE MULTIPOLAR 2X4MM\u00B2 0,6/1KV",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102499,
+      "DESCRICAO": "CABO COBRE MULTIPOLAR 3X1,5MM\u00B2 0,6/1KV",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105303,
+      "DESCRICAO": "CABO COBRE MULTIPOLAR 4X2,5MM\u00B2 0,6/1KV",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105872,
+      "DESCRICAO": "CABO COBRE MULTIPOLAR 4X4MM\u00B2 0,6/1KV",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 643,
+      "DESCRICAO": "CABO COBRE PARALELO 2X2,5MM\u00B2 300V",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107482,
+      "DESCRICAO": "CABO COBRE PP 500V 2X1,0MM\u00B2",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 15568,
+      "DESCRICAO": "CABO COBRE PP 500V 2X1,5MM\u00B2",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112502,
+      "DESCRICAO": "CABO COBRE PP 500V 2X6,0MM\u00B2",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 200
+    },
+    {
+      "COD": 106352,
+      "DESCRICAO": "CABO COBRE PP 500V 3X4,0MM\u00B2",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 100682,
+      "DESCRICAO": "CABO COBRE PP 500V 4X1,0MM\u00B2",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105741,
+      "DESCRICAO": "CABO COBRE RIGID 10MM\u00B2 750V CLASSE II AZUL",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 7
+    },
+    {
+      "COD": 105931,
+      "DESCRICAO": "CABO COBRE RIGID 10MM\u00B2 750V CLASSE II PRETO",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 7
+    },
+    {
+      "COD": 106349,
+      "DESCRICAO": "CABO COBRE RIGID 16MM\u00B2 750V CLASSE II PRETO",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 588,
+      "DESCRICAO": "CABO MADEIRA PA 120CM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107725,
+      "DESCRICAO": "CABO PLASTICHUMBO 2 X 1,0 MM\u00B2 450/750V",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 14277,
+      "DESCRICAO": "CABO PP 2X1,0MM\u00B2 750V",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105155,
+      "DESCRICAO": "CABO REDE ETHERNET UTP 24 AWG 4P CAT 5E USO EXTERNO",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 104746,
+      "DESCRICAO": "CADEADO LATAO 25MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 17533,
+      "DESCRICAO": "CADEADO LATAO 45MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 589,
+      "DESCRICAO": "CAIXA FERRAMENTA SANFONADA C/3 GAV",
+      "UND": "PC",
+      "cc705": 2,
+      "cc743": ""
+    },
+    {
+      "COD": 14569,
+      "DESCRICAO": "CAIXA INSPECAO ATERRAMENTO 25 X 23 CM TAMPA",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 105986,
+      "DESCRICAO": "CAIXA MEDICAO FIBRA VIDRO TIPO III PADRAO RGE",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 108921,
+      "DESCRICAO": "CAIXA MEDICAO POLIFAS POLICARB C/ LENTE",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110605,
+      "DESCRICAO": "CALCA ASO UNISSEX - COR AZUL TIPO BRIM G",
+      "UND": "PC",
+      "cc705": 64,
+      "cc743": ""
+    },
+    {
+      "COD": 106259,
+      "DESCRICAO": "CANALETA ADESIVA PVC 2M 20x10 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 109335,
+      "DESCRICAO": "CARRO CARGA ATE 200 KG",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 115020,
+      "DESCRICAO": "CENTRO ELASTICO A50R + KIT FIXACAO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 107315,
+      "DESCRICAO": "CHAVE BOIA NIVEL UNIPOLAR 15 A INF SUP CABO 1,2 M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105731,
+      "DESCRICAO": "CHAVE BOIA UNIPOLAR 25 A INF SUP CABO 1,5 M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 5
+    },
+    {
+      "COD": 114604,
+      "DESCRICAO": "CHAVE FENDA CRUZADA 1/4in.X6in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114599,
+      "DESCRICAO": "CHAVE FENDA CRUZADA 1/8in.X4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109915,
+      "DESCRICAO": "CHAVE FENDA ISOLADA PONTA CRUZADA 1/4X4in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114304,
+      "DESCRICAO": "CHAVE FENDA ISOLADA PONTA PARALELA 1/4X4''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 80372,
+      "DESCRICAO": "CHAVE FENDA ISOLADA PONTA PARALELA 1/8X3''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114301,
+      "DESCRICAO": "CHAVE FENDA ISOLADA PONTA PARALELA 1/8X4''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114302,
+      "DESCRICAO": "CHAVE FENDA ISOLADA PONTA PARALELA 3/16X3''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 12909,
+      "DESCRICAO": "CHAVE FENDA PARALELA 1/8in.X4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 610,
+      "DESCRICAO": "CHAVE FENDA PARALELA 1/8in.X6in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110149,
+      "DESCRICAO": "CHAVE FIM CURSO XCK-M 110",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107323,
+      "DESCRICAO": "CHAVE SELETORA 3 POSICOES FIXAS 22 MM 2 NA",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 113552,
+      "DESCRICAO": "CHUMBADOR CB INOX PARAFUSO 3/8X3.1/2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113536,
+      "DESCRICAO": "CHUMBADOR CB INOX PRISIONEIRO 3/8x3.3/16",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105466,
+      "DESCRICAO": "CIMENTO 25 KG",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111115,
+      "DESCRICAO": "CINTA ELEVACAO CARGA 2T  LARGURA 60 MM DUAS PERNAS",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1519,
+      "DESCRICAO": "CINTA GALVANIZADA P/POSTE CIRCULAR 220 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112221,
+      "DESCRICAO": "CINTA ICAMENTO POLIESTER 4TON 120MM 5M",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105985,
+      "DESCRICAO": "CINTA PERFURADA ACO CARBONO",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 109391,
+      "DESCRICAO": "CLIPS P/CABO ACO 1/2in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102870,
+      "DESCRICAO": "CLIPS P/CABO ACO CARB 1045 3/8in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102872,
+      "DESCRICAO": "CLIPS P/CABO ACO CARB 1045 5/16in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111448,
+      "DESCRICAO": "CLIPS P/CABO ACO CARB 1045 5/8in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104666,
+      "DESCRICAO": "COLA CONTATO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105452,
+      "DESCRICAO": "COLA INSTANTANEA BRANCA AMARELADA 2G",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105875,
+      "DESCRICAO": "CONDULETE PVC 1in. TIPO C SEM TAMPA",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106208,
+      "DESCRICAO": "CONDULETE PVC 5 ENTRADAS",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106191,
+      "DESCRICAO": "CONDULETE PVC 6 ENTRADAS",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 12307,
+      "DESCRICAO": "CONE SINALIZACAO 75 CM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10873,
+      "DESCRICAO": "CONECTOR BOX CURVO 1in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112143,
+      "DESCRICAO": "CONECTOR CUNHA LIGA DE COBRE 16 MM\u00B2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 112142,
+      "DESCRICAO": "CONECTOR CUNHA PARA HASTE DE ATERRAMENTO 25-35 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113957,
+      "DESCRICAO": "CONECTOR HASTE ATER. TIPO TH 3/4''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 14129,
+      "DESCRICAO": "CONECTOR PARAFUSO FENDIDO 16MM\u00B2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30011,
+      "DESCRICAO": "CONECTOR RJ45",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 15665,
+      "DESCRICAO": "CONTATOR 3P 220V CA 1NA 9A",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107542,
+      "DESCRICAO": "CONTATOR TRIPOLAR 9A 1NA 24VCC TAM S0",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 15665,
+      "DESCRICAO": "CONTATOR TRIPOLAR POTENCIA 9A 1NA 220V CWM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105843,
+      "DESCRICAO": "CONTROLE REMOTO 433MHZ",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106829,
+      "DESCRICAO": "CORDA MULTIFIL TRANCADA PES 10MM",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 9070,
+      "DESCRICAO": "CORDA MULTIFIL TRANCADA PES 12",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108805,
+      "DESCRICAO": "CORDA MULTIFIL TRANCADA PES 14",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 9070,
+      "DESCRICAO": "CORDA POLIAMIDA 12 MM NR18",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 17532,
+      "DESCRICAO": "CORDA POLIPROPILENO 10 MM",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112796,
+      "DESCRICAO": "CORDA POLIPROPILENO TRANCADA 7,0 MM",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101074,
+      "DESCRICAO": "CORDA TRANCADA PP BC 12 '200",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114031,
+      "DESCRICAO": "CORREIA V - TIPO 3V500",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102075,
+      "DESCRICAO": "CORREIA V - TIPO 5V900",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101567,
+      "DESCRICAO": "CORREIA V - TIPO A-38",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109022,
+      "DESCRICAO": "CURVA 90\u00B0 PVC CL15 SOLD 50",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114629,
+      "DESCRICAO": "CURVA 90\u00BA ELETRODUTO PVC 1''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106197,
+      "DESCRICAO": "CURVA 90\u00BA ELETRODUTO PVC 3/4''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 112137,
+      "DESCRICAO": "CURVA PVC CURTA 1in. 90\u00B0 ROSCAVEL ELETRODUTO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113271,
+      "DESCRICAO": "CURVA PVC CURTA 2in. 90\u00B0 ROSCAVEL ELETRODUTO",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106272,
+      "DESCRICAO": "DISCO CORTE ACO CARBONO 4.1/2X7/8in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 648,
+      "DESCRICAO": "DISCO CORTE ACO CARBONO 9X7/8in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 648,
+      "DESCRICAO": "DISCO CORTE ACO CARBONO/INOX 9X1/8X7/8in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106272,
+      "DESCRICAO": "DISCO CORTE ACO CARBONOINOX 4.1 2X7",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106070,
+      "DESCRICAO": "DISCO DESBASTE 4 1/2",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108589,
+      "DESCRICAO": "DISCO DESBASTE FLAP 4.1/2in. 7/8in. 6MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108589,
+      "DESCRICAO": "DISCO DESBASTE METAL TIPO FLAP 4''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 2072,
+      "DESCRICAO": "DISJUNTOR BIPOLAR 25A CURVA B DIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102936,
+      "DESCRICAO": "DISJUNTOR BIPOLAR 40A CURVA C DIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 14819,
+      "DESCRICAO": "DISJUNTOR CX MOLDADA 320A TIPO 400",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106335,
+      "DESCRICAO": "DISJUNTOR MONOPOLAR 32A CURVA B DIN",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 14804,
+      "DESCRICAO": "DISJUNTOR MONOPOLAR 32A CURVA C DIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106683,
+      "DESCRICAO": "DISJUNTOR MOTOR 10 A AJUSTE 6,3-10 A",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107898,
+      "DESCRICAO": "DISJUNTOR MOTOR 16 A AJUSTE 10-16 A",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107898,
+      "DESCRICAO": "DISJUNTOR MOTOR TRIPOLAR 16A 10-16A",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101367,
+      "DESCRICAO": "DISJUNTOR MOTOR TRIPOLAR 4A 2,8-4,0A",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106014,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 100 A CURVA D DIN",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 105838,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 100A CURVA C DIN",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 14811,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 10A CURVA C DIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111061,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 16A CURVA C DIN",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 14812,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 20A CURVA C DIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30039,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 32A CURVA C DIN",
+      "UND": "PC",
+      "cc705": 14,
+      "cc743": ""
+    },
+    {
+      "COD": 17748,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 40 A CURVA C DIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 17748,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 40A CURVA C DIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 14044,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 50A CURVA B DIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 17749,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 50A CURVA C DIN",
+      "UND": "PC",
+      "cc705": 13,
+      "cc743": ""
+    },
+    {
+      "COD": 106330,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 63A CURVA B DIN",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111063,
+      "DESCRICAO": "DISJUNTOR TRIPOLAR 70A CURVA C DIN",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106284,
+      "DESCRICAO": "DIVERSOS FLUIDO DE CORTE SINTETICO 500ML",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 17480,
+      "DESCRICAO": "DPS MONO CLII 240V 20/40KA 350VMAX FASE",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 106410,
+      "DESCRICAO": "ELETRODO 6013 SOLDA ACO CARBONO 2,5",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 100407,
+      "DESCRICAO": "ELETRODO SOLDA 2,5MM 300MM E6130 ESAB",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105873,
+      "DESCRICAO": "ELETRODUTO CORRUGADO  1in.PVC",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 183
+    },
+    {
+      "COD": 106137,
+      "DESCRICAO": "ELETRODUTO CORRUGADO ACO 1in.",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110812,
+      "DESCRICAO": "ELETRODUTO CORRUGADO PEAD 2in.",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110811,
+      "DESCRICAO": "ELETRODUTO CORRUGADO PEAD 3in.",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108918,
+      "DESCRICAO": "ELETRODUTO CORRUGADO PVC 3/4in.",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114626,
+      "DESCRICAO": "ELETRODUTO PVC CINZA 3/4''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105765,
+      "DESCRICAO": "ELETRODUTO PVC RIGIDO ROSCAVEL 1''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 107320,
+      "DESCRICAO": "ELETRODUTO PVC RIGIDO ROSCAVEL 2in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107445,
+      "DESCRICAO": "ELETRODUTO PVC RIGIDO ROSCAVEL 3/4in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 12
+    },
+    {
+      "COD": 105574,
+      "DESCRICAO": "ELETRODUTO PVC RIGIDO SOLDAVEL 1in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 14570,
+      "DESCRICAO": "ELETRODUTO PVC RIGIDO SOLDAVEL 3/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 111703,
+      "DESCRICAO": "ESCADA TELESCOPICA ALUMINIO 3,8M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102527,
+      "DESCRICAO": "ESCALA REGUA ACO INOX 500 MM E 1000 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109371,
+      "DESCRICAO": "ESQUADRO METAL 30CM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 12269,
+      "DESCRICAO": "ESTILETE COMUM TERMOPLASTICO 16MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111983,
+      "DESCRICAO": "EXAUSTOR AXIAL COMERCIAL 30CM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 115532,
+      "DESCRICAO": "EXTREMIDADAE FOFO FP PN 16 DN 200MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 115530,
+      "DESCRICAO": "EXTREMIDADE FOFO ABA VED PN10 PF DN200",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 115534,
+      "DESCRICAO": "EXTREMIDADE FOFO ABA VED PN10 PF DN400",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 115531,
+      "DESCRICAO": "EXTREMIDADE FOFO ABA VED PN16 PF DN200",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 100801,
+      "DESCRICAO": "FACA RETA DESENCAPADORA CABOS 7'', ISOLAC\u00C3O 1000V",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108669,
+      "DESCRICAO": "FACA RETA DESENCAPADORA ISOLADA 7in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101742,
+      "DESCRICAO": "FILTRO DE LINHA 6 SAIDAS 2P+T 10A 250V",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110423,
+      "DESCRICAO": "FITA ADESIVA ISOLANTE AM 18MMX10M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 110426,
+      "DESCRICAO": "FITA ADESIVA ISOLANTE AZ 18MMX10M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 105583,
+      "DESCRICAO": "FITA ADESIVA ISOLANTE AZ 19MMX20M",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 5
+    },
+    {
+      "COD": 110424,
+      "DESCRICAO": "FITA ADESIVA ISOLANTE BR 18MMX10M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 113210,
+      "DESCRICAO": "FITA ADESIVA ISOLANTE VD 18MMX10M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 110425,
+      "DESCRICAO": "FITA ADESIVA ISOLANTE VM 18MMX10M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 105383,
+      "DESCRICAO": "FITA DUPLA FACE 19MM X 2M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111747,
+      "DESCRICAO": "FONTE CHAVEADA PARA EQUIPAMENTO DE TELEMETRIA",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 115083,
+      "DESCRICAO": "FUNIL COM BANDEJA 8''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 1364,
+      "DESCRICAO": "FUSIVEL DIAZED 10A ULTRARAPIDO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 43
+    },
+    {
+      "COD": 1365,
+      "DESCRICAO": "FUSIVEL DIAZED 16A ULTRARAPIDO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 10
+    },
+    {
+      "COD": 1362,
+      "DESCRICAO": "FUSIVEL DIAZED 4A ULTRARRAPIDO-AR",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 1363,
+      "DESCRICAO": "FUSIVEL DIAZED 6A ULTRARAPIDO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 36
+    },
+    {
+      "COD": 14866,
+      "DESCRICAO": "FUSIVEL RETARDADO NH 1 160A",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 1391,
+      "DESCRICAO": "FUSIVEL RETARDADO NH 3 630A",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 101720,
+      "DESCRICAO": "GAS GLP CARGA 1430KPA 68476-85-7 P13",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101720,
+      "DESCRICAO": "GAS GLP P13",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1639,
+      "DESCRICAO": "GAXETA QUAD ALGODAO 100% 5/8in. 18,6MM",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": 1.42
+    },
+    {
+      "COD": 108174,
+      "DESCRICAO": "GRAMPO FIXA FIO/CABO TIPO GARRA - MIGUEL\u00C3O - 5MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 105984,
+      "DESCRICAO": "GRAMPO PRESILHA CINTA PERFURADA ACO",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 7422,
+      "DESCRICAO": "GRAXA BASE LITIO 1 KG",
+      "UND": "LAT",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110949,
+      "DESCRICAO": "GRAXA SINTETICA SABAO LITIO",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 15233,
+      "DESCRICAO": "GRAXA TIPO 2 COMPLEXO LITIO",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107927,
+      "DESCRICAO": "GRAXEIRA 38 UNF 24F RETA",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 40
+    },
+    {
+      "COD": 105487,
+      "DESCRICAO": "HASTE ATERRAMENTO COBREADA 1/2in. (12,8 MM) X 1500 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 15067,
+      "DESCRICAO": "HASTE ATERRAMENTO COBREADA 5/8in. (14,3 MM) X 2400 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114144,
+      "DESCRICAO": "INTERFACE COMUNICACAO USB HART",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114473,
+      "DESCRICAO": "INTERRUPTOR DIFERENCIAL 4P 63A 300MA",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114349,
+      "DESCRICAO": "INTERRUPTOR PARALELO PLACA 4X2",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 30075,
+      "DESCRICAO": "INTERRUPTOR SIMPLES + 1 TOMADA PLACA 4X2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 30075,
+      "DESCRICAO": "INTERRUPTOR SIMPLES + 1 TOMADA PLACA 4X2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 30074,
+      "DESCRICAO": "INTERRUPTOR SIMPLES PLACA 4 X 2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 30074,
+      "DESCRICAO": "INTERRUPTOR SIMPLES PLACA 4X2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 114352,
+      "DESCRICAO": "INTERRUPTOR SIMPLES+2X TOMADA 4X2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107603,
+      "DESCRICAO": "ISOLADOR PORCELANA TIPO OLHAL",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 12
+    },
+    {
+      "COD": 2298,
+      "DESCRICAO": "JOELHO 90\u00B0 PVC CL15 SOLD 50",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 113397,
+      "DESCRICAO": "LAMPADA LED BULBO 9W 3000K E27",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106245,
+      "DESCRICAO": "LAMPADA LED BULBO A60 10 W 6500 K",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114908,
+      "DESCRICAO": "LANTERNA 19 LEDS CARREGAVEL",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30052,
+      "DESCRICAO": "LENCOL BOR SBR S/LONA 3MMX1,2M 3MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30021,
+      "DESCRICAO": "LIMPA CONTATO SPRAY",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106892,
+      "DESCRICAO": "LINHA NYLON 3,00MM APARADOR GRAMA",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11132,
+      "DESCRICAO": "LIXA D'AGUA 100",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108696,
+      "DESCRICAO": "LIXA MANUAL FERRO GRANA: 100 225MM 275MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107293,
+      "DESCRICAO": "LIXA MANUAL FERRO GRANA: 120 225MM 275MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107292,
+      "DESCRICAO": "LIXA MANUAL FERRO GRANA: 80 225MM 275MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104385,
+      "DESCRICAO": "LIXA MANUAL MAD GRANA: 100 225MM 275MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107928,
+      "DESCRICAO": "LONA PLASTICA PRETA",
+      "UND": "M2",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107389,
+      "DESCRICAO": "LUBRIFICANTE AEROSOL 400 ML",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 108519,
+      "DESCRICAO": "LUVA BUCHA LATAO PVC CL15 SOLD 20X1/2in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 9503,
+      "DESCRICAO": "LUVA BUCHA LATAO PVC CL15 SOLD 32X1in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 2385,
+      "DESCRICAO": "LUVA CORRER PVC CL15 PB JE 60",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 114631,
+      "DESCRICAO": "LUVA ELETRODUTO PVC 1''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106880,
+      "DESCRICAO": "LUVA ELETRODUTO PVC 3/4in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 6
+    },
+    {
+      "COD": 11099,
+      "DESCRICAO": "LUVA EMENDA A COMPRESSAO P/ CABO 70 MM\u00B2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 15
+    },
+    {
+      "COD": 108525,
+      "DESCRICAO": "LUVA MTA PVC CL15 SOLD BSP FEM 25X3/4in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 108529,
+      "DESCRICAO": "LUVA MTA PVC CL15 SOLD BSP FEM 40X1.1/4in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 108510,
+      "DESCRICAO": "LUVA PVC CL15 SOLD 20",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108512,
+      "DESCRICAO": "LUVA PVC CL15 SOLD 32",
+      "UND": "UN",
+      "cc705": 215,
+      "cc743": ""
+    },
+    {
+      "COD": 108513,
+      "DESCRICAO": "LUVA PVC CL15 SOLD 40",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108514,
+      "DESCRICAO": "LUVA PVC CL15 SOLD 50",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 2375,
+      "DESCRICAO": "LUVA PVC CL15 SOLD 60",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1603,
+      "DESCRICAO": "LUVA PVC RIGIDO ROSCAVEL ELETRODUTO 2in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1600,
+      "DESCRICAO": "LUVA PVC RIGIDO SOLDAVEL ELETRODUTO 1in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 9670,
+      "DESCRICAO": "LUVA RED PVC CL15 SOLD 50X40",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114733,
+      "DESCRICAO": "MACARICO LANCA CHAMAS",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109689,
+      "DESCRICAO": "MACHO MANUAL 1/2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104728,
+      "DESCRICAO": "MALA BASE BORRACHA 16in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 12942,
+      "DESCRICAO": "MALETA FERRAMENTAS COURO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110002,
+      "DESCRICAO": "MANDRIL 13 MM ENCAIXE 1/2 in. ROSCA  1/2 in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104471,
+      "DESCRICAO": "MANTA FIBRA DE VIDRO 450 g/m2",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 80076,
+      "DESCRICAO": "MANUTENCAO VEICULOS, CONSERTO,LIMPEZA, LUBRIFICAC\u00C3O, REVIS\u00C3O,",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102456,
+      "DESCRICAO": "MARRETA OCTOG ACO CARB 1,5KG",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 671,
+      "DESCRICAO": "MARTELO BOLA 300 G",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 12926,
+      "DESCRICAO": "MARTELO BORRACHA DN 60MM 500 G",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106543,
+      "DESCRICAO": "MISTURADOR OLEO COMBUSTIVEL",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 114635,
+      "DESCRICAO": "MODULO 2X TOMADA CONDULETE",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114634,
+      "DESCRICAO": "MODULO INTERRUPTOR E TOMADA CONDULETE",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113338,
+      "DESCRICAO": "MODULO INTERRUPTOR SIMPLES 15A 250V",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 114632,
+      "DESCRICAO": "MODULO INTERRUPTOR VERTICAL CONDULETE",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104229,
+      "DESCRICAO": "MODULO TOMADA 2P+T 20A 250V BRANCO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104228,
+      "DESCRICAO": "MODULO TOMADA 2P+T 250V 10A BRANCO",
+      "UND": "PC",
+      "cc705": 56,
+      "cc743": ""
+    },
+    {
+      "COD": 104273,
+      "DESCRICAO": "MODULO TOMADA 2P+T 250V 10A VERMELHO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 5739,
+      "DESCRICAO": "NIPLE DUP FOGO CL300 NPT M&M 2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30053,
+      "DESCRICAO": "NIVEL ALUMINIO 355 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 7426,
+      "DESCRICAO": "OLEO INDUSTRIAL HR - 68 EP",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 12431,
+      "DESCRICAO": "OLEO LUBRIFICANTE DESENGRIPANTE SPRAY 300 ML",
+      "UND": "PC",
+      "cc705": 3,
+      "cc743": ""
+    },
+    {
+      "COD": 11572,
+      "DESCRICAO": "OLEO LUBRIFICANTE DESENGRIPANTE SPRAY 500 ML",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108727,
+      "DESCRICAO": "OLEO LUBRIFICANTE EGF 220",
+      "UND": "L",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30024,
+      "DESCRICAO": "OLEO LUBRIFICANTE MOTOR GASOLINA 2 TEMPOS 500 ML",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106036,
+      "DESCRICAO": "OLEO MINERAL ISO VG 220 20L",
+      "UND": "LAT",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11572,
+      "DESCRICAO": "OLEO SINTETICA 500ML AEROSOL",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 14242,
+      "DESCRICAO": "PANO INDUSTRIAL LIMPEZA",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109987,
+      "DESCRICAO": "PAPELAO HIDR ARAM+NBR 1500x1600mm E1,6mm",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 114097,
+      "DESCRICAO": "PAQUIMETRO UNIVERSAL QUADRIMENSIONAL DN 300MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30013,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 1/2'' X 2''",
+      "UND": "PC",
+      "cc705": 14,
+      "cc743": ""
+    },
+    {
+      "COD": 109877,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 1/2in. X 2.1/2in.",
+      "UND": "UN",
+      "cc705": 4,
+      "cc743": ""
+    },
+    {
+      "COD": 109524,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 1/4in. X 1/2in.",
+      "UND": "UN",
+      "cc705": 10,
+      "cc743": ""
+    },
+    {
+      "COD": 110804,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 3/16'' X 2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 106725,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 3/4'' X 3.1/2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 102660,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 3/4in. X 3in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105813,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 3/8'' X 2.1/2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101704,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 5/16'' X 1''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110197,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 5/16in. X 4in.",
+      "UND": "UN",
+      "cc705": 2,
+      "cc743": ""
+    },
+    {
+      "COD": 109879,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 5/8in. X 2.1/2in.",
+      "UND": "UN",
+      "cc705": 12,
+      "cc743": ""
+    },
+    {
+      "COD": 102661,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 5/8in. X 3in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107865,
+      "DESCRICAO": "PARAFUSO ACO CARBONO CABECA SEXTAVADA 9/16in. X 2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108455,
+      "DESCRICAO": "PARAFUSO CABECA FLANGEADA FENDA CRUZADA 5,0 MM X 60 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106097,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1015 BICROM 3,5X35MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 112316,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1015 BICROM 4,5X45MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 106871,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1015 BICROM 4,8X25MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 10
+    },
+    {
+      "COD": 109942,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1015 BICROM 4X40MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109414,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1015 BICROM 5X40MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 10
+    },
+    {
+      "COD": 104696,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1015 BICROM 5X45MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110778,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1015 BICROM 5X60MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 14
+    },
+    {
+      "COD": 112317,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1015 ZA 4,5X40MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111080,
+      "DESCRICAO": "PARAFUSO CHATA CARB 1020 CEMENT 6,1X70MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105881,
+      "DESCRICAO": "PARAFUSO CIL LIGA 5175 NAT 6X60MM",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10921,
+      "DESCRICAO": "PARAFUSO FOGO SEXTAVADO 3/4in. X 2in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11432,
+      "DESCRICAO": "PARAFUSO FOGO SEXTAVADO 5/16in. X 3in. ROSCA SOB.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112315,
+      "DESCRICAO": "PARAFUSO PHILIPS 4,5 X 50 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 115607,
+      "DESCRICAO": "PARAFUSO PHILIPS 6MM X 40 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 30
+    },
+    {
+      "COD": 106258,
+      "DESCRICAO": "PARAFUSO PHILIPS \u00D8 4 X 35 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1720,
+      "DESCRICAO": "PARAFUSO SEXT CARB 1020 ZB 3/4X4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 106872,
+      "DESCRICAO": "PARAFUSO SEXTAVADO 1/4 X 50",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1726,
+      "DESCRICAO": "PARAFUSO SEXTAVADO 3/4 X 2.1/2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101703,
+      "DESCRICAO": "PARAFUSO SEXTAVADO 5/8 X 2 1/2'',RT, UNC, INOX 304 NORMA ANSI B 18.2.1",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 10919,
+      "DESCRICAO": "PARAFUSO SEXTAVADO GALVANIZADO 1/4in. X 2.1/2in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105326,
+      "DESCRICAO": "PARAFUSO SEXTAVADO INOX 5/16 X 3in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107663,
+      "DESCRICAO": "PARAFUSO SEXTAVADO MA 8.8 12 X 60MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110023,
+      "DESCRICAO": "PARAFUSO SEXTAVADO MA 8.8 12 X 80 RP",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105660,
+      "DESCRICAO": "PARAFUSO SEXTAVADO ROSCA SOBERBA 1/4 X 60  CISE",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105663,
+      "DESCRICAO": "PARAFUSO SEXTAVADO ROSCA SOBERBA 1/4 X 80  CISE",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106151,
+      "DESCRICAO": "PARAFUSO SEXTAVADO SOBERBA INOX 5 X 50 PARA BUHA 8",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 106152,
+      "DESCRICAO": "PARAFUSO SEXTAVADO SOBERBA INOX 8 X 70 PARA BUCHA 12",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111196,
+      "DESCRICAO": "PARAFUSO TIPO MAQUINA ACO ZINCADO (3/4in. X 3 1/2in.)",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107631,
+      "DESCRICAO": "PASSA FIO ALMA ACO 20 M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112324,
+      "DESCRICAO": "PASSA FIO COM ALMA ACO 10 M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106449,
+      "DESCRICAO": "PILHA ALCALINA 12V A23",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106723,
+      "DESCRICAO": "PINCEL 1in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106824,
+      "DESCRICAO": "PINCEL 2 1/2",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109667,
+      "DESCRICAO": "PINO ELASTICO 3 X 30",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30019,
+      "DESCRICAO": "PINO ELASTICO 3 X 45",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30018,
+      "DESCRICAO": "PINO ELASTICO 5 X 50 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109665,
+      "DESCRICAO": "PINO ELASTICO 5X30",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30020,
+      "DESCRICAO": "PINO ELASTICO 8 X 50",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 107667,
+      "DESCRICAO": "PINO ELASTICO 8 X 60 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110182,
+      "DESCRICAO": "PISTOLA SILICONE TUBO SIMPLES",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104232,
+      "DESCRICAO": "PLACA CEGA 4X2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105842,
+      "DESCRICAO": "PLACA COMANDO PORTAO 433 MHZ",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104232,
+      "DESCRICAO": "PLACA TOMADA CEGA",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11862,
+      "DESCRICAO": "PLUG INDUSTRIAL 3P+T 32A 220V REF STECK 9H AZUL",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105832,
+      "DESCRICAO": "PLUG MACHO  2P 20A 250V",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11046,
+      "DESCRICAO": "PLUG PVC ROSC PN7,5 M 1/2in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 107373,
+      "DESCRICAO": "PLUGUE FEMEA 2P+T 10 A 250 V PRETO",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112988,
+      "DESCRICAO": "PLUGUE INDUSTRIAL 2P+T 16A 220V IP44 6H",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 112989,
+      "DESCRICAO": "PLUGUE INDUSTRIAL 3P+N+T 32A 380V IP44 6H",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104230,
+      "DESCRICAO": "PLUGUE MACHO 2P+T 10 A 250 V PRETO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113346,
+      "DESCRICAO": "PLUGUE MACHO ANGULAR 2P+T 10A 250V",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113347,
+      "DESCRICAO": "PLUGUE MACHO ANGULAR 2P+T 20A 250V",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 101934,
+      "DESCRICAO": "PNEU CARRINHO DE MAO 3,5 X 8''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 14770,
+      "DESCRICAO": "PORCA ACO INOX SEXTAVADA M14",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 15624,
+      "DESCRICAO": "PORCA FOGO SEXTAVADA 5/8in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1748,
+      "DESCRICAO": "PORCA SEXT CARB 1020 FOGO 1/2in. UNC",
+      "UND": "PC",
+      "cc705": 32,
+      "cc743": ""
+    },
+    {
+      "COD": 102591,
+      "DESCRICAO": "PORCA SEXT CARB 1020 FOGO 5/8in. UNC",
+      "UND": "PC",
+      "cc705": 36,
+      "cc743": ""
+    },
+    {
+      "COD": 106232,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN 1/2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104689,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN 1/4''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106443,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN 3/4in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 106443,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN 3/4in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 110171,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN 3/8in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104693,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN 5/16in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 104693,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN 5/16in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 105969,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN 9/16in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109651,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN M5",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 109650,
+      "DESCRICAO": "PORCA SEXTAV ACO CARBONO GALVAN M8",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101696,
+      "DESCRICAO": "PORCA SEXTAVADA 1/4in. ACO INOX 304",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 13820,
+      "DESCRICAO": "PORCA SEXTAVADA 3/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101689,
+      "DESCRICAO": "PORCA SEXTAVADA BITOLA 5/16 AUTO FRENANTE INOX 304",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105263,
+      "DESCRICAO": "POSTE CONCRETO 7M 2KN",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105021,
+      "DESCRICAO": "PREGO 16 X 24",
+      "UND": "PTE",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109438,
+      "DESCRICAO": "PREGO 18 X 30",
+      "UND": "PTE",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106501,
+      "DESCRICAO": "PRENSA CABO NYLON 1in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 105495,
+      "DESCRICAO": "PRESILHA CINTA METALICA",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 101860,
+      "DESCRICAO": "PROGRAMADOR HORARIO ANALOGIC TIMER S/TOM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105007,
+      "DESCRICAO": "PROGRAMADOR HORARIO DIGITAL TIMER C/TOM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106719,
+      "DESCRICAO": "PROGRAMADOR HORARIO DIGITAL TIMER S/TOM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 14852,
+      "DESCRICAO": "PROV-DPS MONO CLII 380V 40KA 275 VMAX FASE",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 6
+    },
+    {
+      "COD": 103601,
+      "DESCRICAO": "PROV-TABUA PINUS",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104673,
+      "DESCRICAO": "PROV-TABUA PINUS 20CM X 270CM X 1in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106163,
+      "DESCRICAO": "PROV-TABUA PINUS 25 CM X 2,70 M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 103823,
+      "DESCRICAO": "PROV-VASSOURA METAL FIXA GRAMA E JARDIM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105025,
+      "DESCRICAO": "REBITE REPUXE ALUMINIO/ACO CARB 3,2X6MM",
+      "UND": "CART",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30009,
+      "DESCRICAO": "RELE FOTOELETRICO 1000W 220V",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1433,
+      "DESCRICAO": "RELE NIVEL INFERIOR BIVOLT",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108372,
+      "DESCRICAO": "RELE SOBRECARGA TERMICO REF SCHNEIDER LRD21 REG 12-18A",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 111056,
+      "DESCRICAO": "RELE TEMPORIZADOR RE 0-60 MIN",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 15193,
+      "DESCRICAO": "RETENTOR 65 X 85 X 10",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105758,
+      "DESCRICAO": "RETENTOR BR 70X90X13 LI NBR",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1750,
+      "DESCRICAO": "ROLAMENTO   7307 BGA",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114297,
+      "DESCRICAO": "ROLAMENTO 3314 C3",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 13894,
+      "DESCRICAO": "ROLAMENTO 6202 ZZ C3",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 15437,
+      "DESCRICAO": "ROLAMENTO 6206 2Z C3",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 1761,
+      "DESCRICAO": "ROLAMENTO NU 314 ECPC3",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 553,
+      "DESCRICAO": "SABAO MECANICO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 553,
+      "DESCRICAO": "SABAO MECANICO DETERGENTE ROSA 200G",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 15695,
+      "DESCRICAO": "SACA PINO PARALELO 3MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 15693,
+      "DESCRICAO": "SACA PINO PARALELO 4MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109256,
+      "DESCRICAO": "SACA PINO PARALELO 5MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 109255,
+      "DESCRICAO": "SACA PINO PARALELO 6MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 114163,
+      "DESCRICAO": "SERRA COPO DIAMANTADA CARB C45 50MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 80574,
+      "DESCRICAO": "SERVICOS CONSERTO MANUTENC\u00C3O EQUIPAMENTOS",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 104197,
+      "DESCRICAO": "SILICONE BRANCO 280 G",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105769,
+      "DESCRICAO": "SISTEMA X - TOMADA DUPLA 2P+T 20A",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 9056,
+      "DESCRICAO": "SOQUETE BASE G13 LAMPADA FLUORESCENTE TUBULAR T8",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 30082,
+      "DESCRICAO": "SOQUETE PORCELANA E27 PLAFON",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 693,
+      "DESCRICAO": "SOQUETE PVC LAMPADA E27",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 12569,
+      "DESCRICAO": "SPRAY SINTETICO BRANCO 350ML",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 110926,
+      "DESCRICAO": "SUPORTE SERRA COPO 32 A 152 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11285,
+      "DESCRICAO": "TAMPA CAIXA DERIV 3 POSTOS PVC 1/2in. 3/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 114622,
+      "DESCRICAO": "TAMPA PVC 2 POSTOS CONDULETE 1/2'' E 3/4''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11285,
+      "DESCRICAO": "TAMPA PVC CAIXA CONDULETE 3 POSTOS 1/2'' E 3/4''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 4
+    },
+    {
+      "COD": 107612,
+      "DESCRICAO": "TAMPA PVC CEGA CONDULETE 1/2'' E 3/4''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113361,
+      "DESCRICAO": "TAPETE VINIL",
+      "UND": "M2",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 115150,
+      "DESCRICAO": "TARRAXA MANUAL BSPT 3/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105510,
+      "DESCRICAO": "TARRAXA MANUAL CARB BSP 1' TUBOS PVC",
+      "UND": "PC",
+      "cc705": 5,
+      "cc743": ""
+    },
+    {
+      "COD": 114147,
+      "DESCRICAO": "TARRAXA MANUAL CARB BSP 2in. TUBOS PVC",
+      "UND": "PC",
+      "cc705": 4,
+      "cc743": ""
+    },
+    {
+      "COD": 113082,
+      "DESCRICAO": "TEE PVC CL15 PBB 50MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 2494,
+      "DESCRICAO": "TEE PVC CL15 SOLD 40",
+      "UND": "PC",
+      "cc705": 10,
+      "cc743": 1
+    },
+    {
+      "COD": 108145,
+      "DESCRICAO": "TEE PVC CL15 SOLD 50",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 14089,
+      "DESCRICAO": "TERMINAL COMPRESSAO COBRE 1F/1C SEM ISOLACAO 35 MM\u00EF\u00BD\u00B2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 10
+    },
+    {
+      "COD": 14092,
+      "DESCRICAO": "TERMINAL COMPRESSAO COBRE 1F/1C SEM ISOLACAO 50 MM\u00EF\u00BD\u00B2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 10
+    },
+    {
+      "COD": 11068,
+      "DESCRICAO": "TERMINAL ISOL OLHAL AM 4,0-6,0 MM\u00B2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 14066,
+      "DESCRICAO": "TERMINAL ISOL OLHAL AZ 1,5-2,5 MM\u00B2",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 20
+    },
+    {
+      "COD": 109393,
+      "DESCRICAO": "TERMINAL PRE-ISOLADO TIPO ILHOS SIMPLES 2,5 MM\u00B2 AZUL",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 14061,
+      "DESCRICAO": "TERMINAL PRE-ISOLADO TIPO OLHAL 0,5-1,5 MM\u00B2 VERMELHO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106943,
+      "DESCRICAO": "THINNER 2750",
+      "UND": "L",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 12408,
+      "DESCRICAO": "TIJOLO MACICO",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 106746,
+      "DESCRICAO": "TINTA SPRAY DIVERSAS CORES",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 11081,
+      "DESCRICAO": "TOMADA 10A 2P+T PLACA 4X2''",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 8
+    },
+    {
+      "COD": 106298,
+      "DESCRICAO": "TOMADA 2X 10A 2P+T 10 PLACA 4X2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 112759,
+      "DESCRICAO": "TOMADA 3X 10A 2P+T PLACA 4X2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 111238,
+      "DESCRICAO": "TOMADA SOBREPOR INDUSTR PORCELANA 3X20A",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 100469,
+      "DESCRICAO": "TORNEIRA BOIA BRONZE BSP 1.1/4in.",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": 1
+    },
+    {
+      "COD": 14242,
+      "DESCRICAO": "TRAPO INDUSTRIAL COSTURADO",
+      "UND": "KG",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 9069,
+      "DESCRICAO": "TRAVA-QUEDAS CORDA 12 MM",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101765,
+      "DESCRICAO": "TRENA MANUAL AC C/TRAVA 5M",
+      "UND": "PC",
+      "cc705": 1,
+      "cc743": ""
+    },
+    {
+      "COD": 109935,
+      "DESCRICAO": "TRENA METALICA 3 M",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101765,
+      "DESCRICAO": "TRENA METALICA 5 M",
+      "UND": "PC",
+      "cc705": 1,
+      "cc743": ""
+    },
+    {
+      "COD": 111778,
+      "DESCRICAO": "TRILHO DIN 35 MM PERFURADO (M)",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 105719,
+      "DESCRICAO": "TUBO COBRE 5/16-7.94MM",
+      "UND": "M",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113478,
+      "DESCRICAO": "TUBO FLEX BORR SINT 3LON 1in.",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 67
+    },
+    {
+      "COD": 113478,
+      "DESCRICAO": "TUBO FLEX BORRACHA E FIBRA SINT 1in.",
+      "UND": "M",
+      "cc705": "",
+      "cc743": 67
+    },
+    {
+      "COD": 104106,
+      "DESCRICAO": "UNIAO COMPR PP PN16 COMPR 25MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 108534,
+      "DESCRICAO": "UNIAO PVC CL15 SOLD 32",
+      "UND": "UN",
+      "cc705": 12,
+      "cc743": 1
+    },
+    {
+      "COD": 108536,
+      "DESCRICAO": "UNIAO PVC CL15 SOLD 50",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 3
+    },
+    {
+      "COD": 107727,
+      "DESCRICAO": "VALVULA ESF PVC SOLD PN7,5 BB DN32MM",
+      "UND": "UN",
+      "cc705": 6,
+      "cc743": ""
+    },
+    {
+      "COD": 114017,
+      "DESCRICAO": "VALVULA ESFERA CPVC INDUST PN10 SOLD 1in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": 2
+    },
+    {
+      "COD": 114018,
+      "DESCRICAO": "VALVULA ESFERA CPVC INDUST PN10 SOLD 2in.",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 8000,
+      "DESCRICAO": "V\u00C1LVULA GAVETA FOFO D\u00DACTIL FF PN 10 ESGOTO DN 80 MM",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 113984,
+      "DESCRICAO": "VALVULA RET VERT RAP PN16 BSP F&F 1.1/2''",
+      "UND": "UN",
+      "cc705": "",
+      "cc743": ""
+    },
+    {
+      "COD": 101158,
+      "DESCRICAO": "WATTIMETRO ALICATE DIGITAL ET- 4080 - 600 A 100 0 A - CAT III TRUE RMS",
+      "UND": "PC",
+      "cc705": "",
+      "cc743": ""
+    }
+  ]`;
+    
