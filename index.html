@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+    
+<link rel="stylesheet" href="layout.css">
+<script src="jQuery2_1_3.js"></script> 
+<script src="jQuery2_1_1"></script>
+<script src="script.js"></script> 
+
+<script type="text/javascript" src="datas.json"></script>
+
+</head>
+
+
+
+<h1>Relação Meteriais Almoxarifado</h1>
+<input id='search-box' placeholder='Procurar...'>
+<button id="btnSelectAll">Limpar</button>
+<button type="button" id="bt_txtcsv" onclick="btnSelectAll.(this)">Baixar</button>
+<button id="btnSubmit">Incluir</button>
+
+<input type="checkbox"  id="ckItemNv"></input>
+<label style="color:red; font:12px Tahoma;">ADICIONAR NOVO</label>
+
+<p></p>
+
+
+
+<div align="left">
+<textarea id="relItem" cols="53" rows="5" class="txtA_Itens" height="500px" placeholder="Incluir itens tabela..."></textarea>
+</div>
+<div id="opAddnv">
+<fieldset  aling="left" style="size=50; width:470px; border-color: red;"/>
+<div align="left">
+<input id="addlItem" name="inptAdditem" style="text-transform: uppercase;" 	size="35" placeholder='Incluir Item não Cadastrado...'>
+<input id="addlItemQnt" name="inptAdditemQnt" size="5" placeholder='Quant...'>
+<button type="button" style="width:90px;" id="btAddnv">Incluir Novo</button>
+</div>  
+</fieldset>
+</div>
+<script>
+
+
+
+</script>
+<body onload="myFun();" >
+    <div class="conteudo">
+       <div class="card"> 
+<!--<form name="frmMain" action="" name="hdnCount" method="post" OnSubmit="return onDelete();" >-->
+
+<table id="myTable">
+    <thead>
+     <tr>
+        <th>COD</th>
+        <th>DESCRIÇÃO</th>
+        <th>UNID</th>
+        <th>705</th>
+        <th>746</th>
+		<th width="10">Qnt-Pedido</th>
+        <th width="30"> <div align="center">
+      <input name="CheckAll" type="checkbox" id="CheckAll" value="Y" onClick="ClickCheckAll(this);">
+    </div></th>
+        </tr>
+      
+</thead>
+  
+</table>
+
+<!--</form>-->
+</body>
+
+</html>
