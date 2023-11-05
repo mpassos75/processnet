@@ -1,0 +1,79 @@
+.myTable {
+    width: 50%;
+}
+.inputVl {
+  padding: 10;
+  width: 50px;
+  box-sizing: border-box;
+  size: 3px;
+ 
+}
+inputVl{
+	 max-lenght:4;
+	
+}
+.txtA_Itens{
+
+    font-family:Verdana, Helvetica, sans-serif;
+     font-size: 15px;
+     text-transform: uppercase;
+}
+
+th {
+	color:white;
+	background-color:blue;
+	font-family:Arial, Helvetica, sans-serif;
+  
+    font-weight: bold;
+    padding: 6px;
+	
+}
+
+
+  td {
+    background: #a6d2df;
+    padding: 3px;
+}
+
+
+
+td {
+    padding: 5px;
+}
+#opAddnv { visibility : hidden }
+
+.highlight td {
+    background: yellow;
+}
+
+.selected {
+    background-color: yellow;
+}
+
+.selectedcc {
+    background-color: greenyellow;
+}
+
+.highlight .selectedcc {
+    background-color: red;
+}
+
+
+.conteudo {
+    font-family:Verdana, Helvetica, sans-serif;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow-x: auto;
+     padding: 1px;
+     font-size: 15px;
+}
+
+.card{
+  
+   min-width: 1500px;
+   margin: 10px;
+   height: 600px;
+   text-align: center;
+}
