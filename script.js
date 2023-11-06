@@ -210,7 +210,7 @@ if(confirm("Baixar Itens Relacionados?")){
         var encoded_file = encodeURI(file);
         var link = document.createElement("a");
         link.setAttribute("href", encoded_file);
-        link.setAttribute("download", "file.csv");
+        link.setAttribute("download", "MatManutEletMec.csv");
         document.body.appendChild(link);
         link.click();
         document.getElementById('relItem').value = "";
