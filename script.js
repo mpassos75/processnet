@@ -152,6 +152,7 @@ document.getElementById("bt_txtcsv").disabled = false;
 	 document.getElementById('relItem').value = "";
 	 vlItem = $('input[name="inptAdditem"]').val('');
 	vlItemQnt = $('input[name="inptAdditemQnt"]').val('');
+	     document.getElementById('search-box').value = "";
 	
 	 })
 	
