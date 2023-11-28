@@ -69,7 +69,7 @@ for (var i=0; i<data.length; i++) {
  
  $(document).ready(function () {
     $('input[type=radio]').change(function() {
-        $('input[type=radio]:checked').not(this).prop('checked', true);
+        $('input[type=radio]:checked').not(this).prop('checked', false);
     });
 	
 	$(".nvItem").hide();
