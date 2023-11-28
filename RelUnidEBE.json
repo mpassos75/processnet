@@ -1,0 +1,243 @@
+var relUnidEBE =`[
+  {
+    "Loc": "046-(1)BEIRA MAR 1"
+  },
+  {
+    "Loc": "046-(2)BEIRA MAR 2"
+  },
+  {
+    "Loc": "046-(9.1)ILHAS RESORT"
+  },
+  {
+    "Loc": "046-(9.2)ILHAS RESORT"
+  },
+  {
+    "Loc": "046-(9.3)ILHAS RESORT"
+  },
+  {
+    "Loc": "046-(9)ILHAS RESORT"
+  },
+  {
+    "Loc": "046-(7.1)CONDADO 1"
+  },
+  {
+    "Loc": "046-(7.2)CONDADO 2"
+  },
+  {
+    "Loc": "046-(30)COSTA SERENA"
+  },
+  {
+    "Loc": "046-(8)DUBAI"
+  },
+  {
+    "Loc": "046-(3)GAL. OSORIO"
+  },
+  {
+    "Loc": "046-(3.6)PINDORAMA"
+  },
+  {
+    "Loc": "046-(2.1)PREFEITURA"
+  },
+  {
+    "Loc": "046-(3.2)SANTA LUZIA (2)"
+  },
+  {
+    "Loc": "046-(3.1)SANTO ANTONIO (1)"
+  },
+  {
+    "Loc": "046-(10)CAMINITO"
+  },
+  {
+    "Loc": "046-(11)ARENAS"
+  },
+  {
+    "Loc": "226-(1)BEIRA RIO"
+  },
+  {
+    "Loc": "226-(6)ETE VELHA"
+  },
+  {
+    "Loc": "226-(10)IRGA NORTE"
+  },
+  {
+    "Loc": "226-(2)PRACA"
+  },
+  {
+    "Loc": "226-(4)PRAIA DA CAL"
+  },
+  {
+    "Loc": "226-(3)PRAIA GRANDE (PRAINHA)"
+  },
+  {
+    "Loc": "226-(5)RIACHO"
+  },
+  {
+    "Loc": "226-(5A)STAN"
+  },
+  {
+    "Loc": "226-()MORADA DAS PALMEIRAS"
+  },
+  {
+    "Loc": "226-()PARQUE DAS AGUAS 1"
+  },
+  {
+    "Loc": "226-()OCEAN SIDE"
+  },
+  {
+    "Loc": "226-()PARQUE DAS AGUAS 2"
+  },
+  {
+    "Loc": "226-()TORRES ILHAS PARK"
+  },
+  {
+    "Loc": "245-(3)ATLANTIDA"
+  },
+  {
+    "Loc": "245-(2.1)EBE ET 2.1 (VENTURA)"
+  },
+  {
+    "Loc": "245-(2.2)EBE ET 2.2 (QUINTAS)"
+  },
+  {
+    "Loc": "245-(3.1)EBE ET 3.1 (C. HERMOSA)"
+  },
+  {
+    "Loc": "245-(ETE)EBE RECICLO"
+  },
+  {
+    "Loc": "245-()NOVA XANGRI-LA, LOT."
+  },
+  {
+    "Loc": "245-(TERCEIRO)BLUE"
+  },
+  {
+    "Loc": "245-(TERCEIRO)CASA HERMOSA"
+  },
+  {
+    "Loc": "245-(TERCEIRO)ESSENCE, ED."
+  },
+  {
+    "Loc": "245-(TERCEIRO)LA PLAGE"
+  },
+  {
+    "Loc": "245-()ACQUALINA"
+  },
+  {
+    "Loc": "245-()ILHAS PARK 1"
+  },
+  {
+    "Loc": "245-()ILHAS PARK 2"
+  },
+  {
+    "Loc": "245-()VENTURA 2"
+  },
+  {
+    "Loc": "245-()ATLANTIDA SQUARE, ED."
+  },
+  {
+    "Loc": "245-()BOSQUES DE ATLANTIDA"
+  },
+  {
+    "Loc": "245-()CARMEL"
+  },
+  {
+    "Loc": "245-()CELEBRATION 1"
+  },
+  {
+    "Loc": "245-()ENSEADA DOS LAGOS 1"
+  },
+  {
+    "Loc": "245-()ILHAS PARK 3"
+  },
+  {
+    "Loc": "245-()LAS DUNAS"
+  },
+  {
+    "Loc": "245-()QUINTAS DO LAGO"
+  },
+  {
+    "Loc": "245-()RIVIERA 1"
+  },
+  {
+    "Loc": "245-()GREEN VILLAGE 1"
+  },
+  {
+    "Loc": "245-()GREEN VILLAGE 2"
+  },
+  {
+    "Loc": "245-()RIVIERA 2"
+  },
+  {
+    "Loc": "245-()SEA COAST 1"
+  },
+  {
+    "Loc": "245-()SEA COAST 2"
+  },
+  {
+    "Loc": "245-()VENTURA 1"
+  },
+  {
+    "Loc": "245-()LAGOA DO PASSO"
+  },
+  {
+    "Loc": "245-()LAGOS PARK 1"
+  },
+  {
+    "Loc": "245-()LAGOS PARK 2"
+  },
+  {
+    "Loc": "245-()VENTURA 3"
+  },
+  {
+    "Loc": "245-()CELEBRATION 2"
+  },
+  {
+    "Loc": "245-()MALIBU"
+  },
+  {
+    "Loc": "245-()ONE ATL\u00C2NTIDA HOUSES"
+  },
+  {
+    "Loc": "245-()ENSEADA DOS LAGOS 2"
+  },
+  {
+    "Loc": "245-()PATEO MARBELLA"
+  },
+  {
+    "Loc": "245-()PLAYA VISTA"
+  },
+  {
+    "Loc": "245-()PORTO CORONADO"
+  },
+  {
+    "Loc": "245-()ENSEADA DOS LAGOS 3"
+  },
+  {
+    "Loc": "245-()GREEN VILLAGE 3"
+  },
+  {
+    "Loc": "245-()LAGOS PARK 3"
+  },
+  {
+    "Loc": "245-()LAS PALMAS"
+  },
+  {
+    "Loc": "245-()ROSSI ATL\u00C2NTIDA"
+  },
+  {
+    "Loc": "245-()RIVIERA 3"
+  },
+  {
+    "Loc": "245-()SANTORINI, LOT."
+  },
+  {
+    "Loc": "245-(TERCEIRO)SENSE"
+  },
+  {
+    "Loc": "245-()PACIFIC"
+  },
+  {
+    "Loc": "245-()VILLAGIO"
+  }
+]
+`;
