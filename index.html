@@ -1,52 +1,122 @@
+
 <!DOCTYPE html>
 <html>
 
 
 <head>
-    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<link rel="stylesheet" href="style.css">
-	
-
-
+    
+<link rel="stylesheet" href="layout.css">
+<link rel="stylesheet" href="4_1_0-css_select2.min.css">
+<script src="jQuery2_1_3.js"></script> 
+<script src="jQuery2_1_1"></script>
 <script src="script.js"></script> 
 
-<script src="datas.json"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<!--<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/css/select2.min.css" rel="stylesheet" />-->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"></script>
+		<script type="text/javascript" src="RelUnidEBE.json"></script>
+		<script type="text/javascript" src="RelUnidETA.json"></script>
+		<script type="text/javascript" src="RelUnidRES.json"></script>
+		<script type="text/javascript" src="datas.json"></script>
+
+
 
 </head>
 
 
 
-<h1>Relação Meteriais Manut. Eletromecanica</h1>
-<input id='search-box' style="color:red; text-transform: uppercase;" placeholder="Procurar...">
-<button id="btnSelectAll">Limpar</button>
-<button type="button" id="bt_txtcsv" onclick="btnSelectAll.(this)">Baixar</button>
-<button id="btnSubmit">Incluir</button>
-
-<input type="checkbox"  id="ckItemNv"></input>
-<label style="color:red; font:12px Tahoma;">ADICIONAR NOVO</label>
-
-<p></p>
-
-
-
-<div align="left">
-<textarea id="relItem" cols="53" rows="5" class="txtA_Itens" height="500px" placeholder="Incluir itens tabela..."></textarea>
+<h2 style="font:25px Tahoma; color:BLUE">RELAÇÃO MATERIAL - SERVIÇOS ELETROMECÂNICA</h2>
+<div id="TabAddItem">
+<fieldset class="tAddi;" aling="left" style="size=50; font:5px Tahoma; width:450px; border-color: blue;">
+<legend  style="font:13px Tahoma; color:blue">&nbsp;&nbsp;TABELA&nbsp;&nbsp;</legend>
+<button id="btnSubmit" class="bt_A"><span>INCLUIR ITENS</span></button>
+&nbsp;&nbsp;
+<button id="btnSelectAll" class="bt_A">LIMPA TAB</button>
+&nbsp;&nbsp;
+<input id='search-box' type="search" style="font:15px Tahoma; border-color: blue; color:red; text-transform: uppercase; size=50; height:35px; width:270px;" incremental="incremental" placeholder='Procurar...'>
+&nbsp;&nbsp;
+<button type="button" class="bt_A"  id="bt_txtcsv" onclick="btnSelectAll.(this)">BAIXAR</button>
+</fieldset>
+<fieldset class="tAddi;" aling="left" style="width:434px; border-color: blue;">
+<input type="checkbox" class="ckItemNvCl"  id="ckItemNv"></input>
+<label style="color:red; font:12px Tahoma; font-weight: bold; font-style: italic; ">ADICIONAR NOVO ITEM (Inexistente Tabela)</label>
+</fieldset>
 </div>
+
+<form class="frmSelecUnids">
+
+<div id="UnidLegn">	
+<fieldset aling="left" class="UL"; id="ContSelecUnids" style="size=50; height:80px;  font:12px Tahoma; width:310px; border-color: blue;">
+<legend  style="font:13px Tahoma; color:blue">&nbsp;&nbsp;UNIDADES&nbsp;&nbsp;</legend>
+		
+<input type="radio" name="rdSelLoc" id="rckEbe" checked="checked" value="ebe"><span>EBEs</span>
+<input type="radio" name="rdSelLoc" id="rckEta" value="eta"><span>ETAs</span>
+<input type="radio" name="rdSelLoc" id="rckRes" value="res"><span>RESERV</span>
+<button type="button" id="btSelOpc" style="color:blue width:60px;" class="ClassBtAddList">ADD DE NOVO</button> 
+<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<select size="1" name="unid"  id="LocUnids" class="SelecUnids" style="width:250px;" >
+			<!-- Dropdown List Option -->
+			</select>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+</fieldset >
+
+
+<fieldset aling="left" class="UL";  style="size=50; font:10px Tahoma; font-style: italic; text-align:justify; font-weight: bold; width:400px; height:82px; border-color: blue;">
+<legend  style="font:13px Tahoma; color:blue">&nbsp;&nbsp;LEGENDA&nbsp;&nbsp;</legend>
+<input type="checkbox"  class="classCkInfo" checked="checked">&nbsp;&nbsp;NECESSÁRIO SELECIONAR PARA INCLUIR INFORMAÇÕES - ITEM</input>
+<P>
+</P>
+<input type="radio" id="rInfo" class="classCkInfo2" value="desabilita" checked>&nbsp;&nbsp;ADICIONAR NOVO ITEM E OPÇÂO EDITAR DESCRIÇÃO SIMILAR</input>
+<ol type="I"><li><p>CIDADES: <b style="color:red;">046</b>-CAPÃO DA CANOA / <b style="color:red;">226</b>-TORRES / <b style="color:red;">245</b>-XANGRI-LÁ</p></li></ol>
+</fieldset>
+</div>
+
+</form>
+
+<p>
+</p>
+
+
+	
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<h2 type="text" id="LocUnidAdd"  style="color:white; background-color: white; float:left; font:15px Tahoma"></h2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <div id="opAddnv">
-<fieldset  aling="left" style="size=50; width:470px; border-color: red;"/>
+<fieldset  class="nvItem" aling="left" style="size=50; width:650px; height:27px; border-color: red;">
 <div align="left">
-<input id="addlItem" name="inptAdditem" style="text-transform: uppercase;" 	size="35" placeholder='Incluir Item não Cadastrado...'>
-<input id="addlItemQnt" name="inptAdditemQnt" size="5" placeholder='Quant...'>
-<button type="button" style="width:90px;" id="btAddnv">Incluir Novo</button>
+<input id="addlItem" name="inptAdditem" style="text-transform: uppercase; vertical-align: -moz-middle-with-baseline;" 	size="35" placeholder='Incluir Item não Cadastrado...'>
+<input id="addlItemQnt" name="inptAdditemQnt" style="vertical-align: -moz-middle-with-baseline;" size="5" placeholder='Quant...'>
+<input id="addlItemLoc" name="inptAdditemLoc" style="vertical-align:-moz-middle-with-baseline;" class="ClassAddI_loc" size="25" placeholder='Local...'>
+<button type="button" style="width:60px; height:35px; font:10px Tahoma;  vertical-align: text-top;" id="btAddnv">INCLUIR NOVO</button>
 </div>  
 </fieldset>
 </div>
-<script>
+<p></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="left">
+<textarea id="relItem" cols="80" rows="5" class="txtA_Itens" style="width=800px;" placeholder="Incluir itens tabela ou não cadastrado..."></textarea>
+</div>
 
 
+	
 
-</script>
 <body onload="myFun();" >
     <div class="conteudo">
        <div class="card"> 
@@ -55,15 +125,19 @@
 <table id="myTable">
     <thead>
      <tr>
-        <th>COD</th>
-        <th>DESCRIÇÃO</th>
-        <th>UNID</th>
-        <th>705</th>
-        <th>746</th>
-		<th width="10">Qnt-Pedido</th>
-        <th width="30"> <div align="center">
-      <input name="CheckAll" type="checkbox" id="CheckAll" value="Y" onClick="ClickCheckAll(this);">
+	 <th bgcolor="red" width="10">O</th>
+        <th bgcolor="blue">COD</th>
+        <th bgcolor="blue">DESCRIÇÃO</th>
+        <th bgcolor="blue">UNID</th>
+        <th bgcolor="blue">705</th>
+        <th bgcolor="blue">746</th>
+		<th bgcolor="blue" width="10">QNT</th>
+		<th bgcolor="blue" width="30" align="center">LOCAL INSTALADO</th>
+        <th bgcolor="green" width="30"> <div align="center">
+      <input name="CheckAll"  type="checkbox" id="CheckAll" value="Y" onClick="ClickCheckAll(this);">
+	  
     </div></th>
+    
         </tr>
       
 </thead>
