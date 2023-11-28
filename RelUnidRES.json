@@ -1,0 +1,141 @@
+var relUnidRES =`[
+  {
+    "Loc": "046-(R33 (2))BOM JESUS"
+  },
+  {
+    "Loc": "046-(R35 (3))CENTRO"
+  },
+  {
+    "Loc": "046-(R36)JARDIM OLIVIA"
+  },
+  {
+    "Loc": "046-(R37)JARDIM ATLANTICO"
+  },
+  {
+    "Loc": "046-(R1)US"
+  },
+  {
+    "Loc": "046-(R19)ETA-2"
+  },
+  {
+    "Loc": "046-(R2)US"
+  },
+  {
+    "Loc": "046-(R22)GUARANI"
+  },
+  {
+    "Loc": "046-(R24)ARACA"
+  },
+  {
+    "Loc": "046-(R3)US"
+  },
+  {
+    "Loc": "046-(R31 (0))ETA CURUMIM"
+  },
+  {
+    "Loc": "046-(R32 (1))ETA CURUMIM"
+  },
+  {
+    "Loc": "046-(R34 (4))ARROIO TEXEIRA"
+  },
+  {
+    "Loc": "046-(R4)ZONA NOVA"
+  },
+  {
+    "Loc": "046-(R5)ETA-2"
+  },
+  {
+    "Loc": "046-(R6)ETA-2"
+  },
+  {
+    "Loc": "046-(R7)STA LUZIA"
+  },
+  {
+    "Loc": "226-(R0)SAO BRAS"
+  },
+  {
+    "Loc": "226-(R10)VILA SAO JOAO"
+  },
+  {
+    "Loc": "226-(R11)VILA PIRATABA"
+  },
+  {
+    "Loc": "226-(R12)PRAIA REAL"
+  },
+  {
+    "Loc": "226-(R2)MORRO DO FAROL"
+  },
+  {
+    "Loc": "226-(R3)MORRO DO FAROL"
+  },
+  {
+    "Loc": "226-(R4)CENTENARIO"
+  },
+  {
+    "Loc": "226-(R5)MORRO DO FAROL"
+  },
+  {
+    "Loc": "226-(R6)CENTENARIO"
+  },
+  {
+    "Loc": "226-(R7)CENTENARIO"
+  },
+  {
+    "Loc": "226-(R8)SAO BRAS"
+  },
+  {
+    "Loc": "226-(R9)SAO JORGE"
+  },
+  {
+    "Loc": "245-(R10)ATLANTIDA"
+  },
+  {
+    "Loc": "245-(R11)ATLANTIDA"
+  },
+  {
+    "Loc": "245-(R12)ATLANTIDA"
+  },
+  {
+    "Loc": "245-(R13)ETA"
+  },
+  {
+    "Loc": "245-(R14)RAINHA DO MAR"
+  },
+  {
+    "Loc": "245-(R15)ATLANTIDA SUL"
+  },
+  {
+    "Loc": "245-(R16)ATLANTIDA SUL"
+  },
+  {
+    "Loc": "245-(R17)LOT. PORTO CORONADO"
+  },
+  {
+    "Loc": "245-(R18)REMANSO/LAS DUNAS"
+  },
+  {
+    "Loc": "245-(R20)XANGRI-LA"
+  },
+  {
+    "Loc": "245-(R21)QUINTAS DO LAGO"
+  },
+  {
+    "Loc": "245-(R23)ATLANTIDA"
+  },
+  {
+    "Loc": "245-(R25)ARPOADOR"
+  },
+  {
+    "Loc": "245-(R26)RAINHA DO MAR"
+  },
+  {
+    "Loc": "245-(R8)CENTRO"
+  },
+  {
+    "Loc": "245-(R9)VILLAS RESORT"
+  },
+  {
+    "Loc": "245-()ETA"
+  }
+]
+`;
