@@ -1,6 +1,24 @@
 	$(window).on("load", function(){
    document.getElementById("bt_txtcsv").disabled = true;
+   document.getElementById("rInfo").checked = true;
    $("#opAddnv").css("visibility", "invisible");
+   
+     var array = JSON.parse(relUnidEBE);
+  var newArray = [];
+for (var i = 0; i < array.length; i++) {
+    var singleElement = array[i];
+    var Loc = singleElement.Loc;
+    newArray.push(Loc);
+}
+//alert(newArray);
+					var LocU = newArray;
+				
+			var locInst = $("#LocUnids").select2({
+				  data: LocU
+
+					
+				});
+
 })
 
 
@@ -22,10 +40,11 @@ for (var i=0; i<data.length; i++) {
 				
 		}
 			
-            var row = $('<tr class="row-select"><td class="cod">' + data[i].COD+ '</td><td class="desc" align="left">' + 
+            var row = $('<tr class="row-select"><td><input type="radio" class="rdbClass" name="rdb" value=" '+i+' "></td><td class="cod">' + data[i].COD+ '</td><td class="desc" align="left">' + 
 			data[i].DESCRICAO + '</td><td>' + data[i].UND + '</td><td>' +
 			data[i].cc705 + '</td><td>' + data[i].cc746 + 
-			'</td><td><input type="text" id="txtVl" name="txtVls" maxlength="4" class="inputVl"></td><td class="check" ><input type="checkbox"  name="Selected[]" class="checkbox"></td></tr>');
+			'</td><td><input type="text" id="txtVl" name="txtVls" maxlength="4" class="ClassInputVl">' +
+			'</td><td><input type="text" id="'+i+'" name="inputLocInst" class="ClassLocInst"></td><td class="check" ><input type="checkbox"  id='+i+' name="Selected[]" class="checkbox"></td></tr>');
 			 			
             $('#myTable').append(row);
 						
@@ -45,85 +64,177 @@ for (var i=0; i<data.length; i++) {
 		
 		var linhas = $("data").rows
  // var linhas = table1.getElementsByTagName('tr'); 
+ 
+ 
+ 
+ $(document).ready(function () {
+    $('input[type=radio]').change(function() {
+        $('input[type=radio]:checked').not(this).prop('checked', false);
+    });
+	
+	$(".nvItem").hide();
+$(".ckItemNvCl").click(function() {
+    if($(this).is(":checked")) {
+        $(".nvItem").show();
+    } else {
+        $(".nvItem").hide();
+		 document.getElementById("btnSubmit").disabled = false;
+		 $('input[type=radio]:checked').not(this).prop('checked', false);
+		  document.getElementById("addlItem").value = "";
+      document.getElementById("addlItemQnt").value = "";
+	  document.getElementById("addlItemLoc").value = "";
+    }
+});
+	
+	
+});
 		
 //----------------------------------------------
 
+
+	$(document).ready(function(){
+		
+   $(".rdbClass").on('click',function(){
+	 
+	   var addItemNV = document.getElementById('addlItem')
+	  //var vlItem = $('input[name="inptAdditem"]').val();
+       var currentRow=$(this).closest("tr");
+
+       var col1=currentRow.find("td:eq(0)").html();
+       var col2=currentRow.find("td:eq(1)").html();
+	    var col3=currentRow.find("td:eq(2)").html();
+	   
+	   if ($('#ckItemNv').is(':checked') == true){
+		    
+			addItemNV.value = "";
+			$('input[name="inptAdditem"]')[0].focus();
+		   addItemNV.value+=col3;
+		   
+	   }
+
+       var data=col1+"\n"+col2;
+   //    alert(data);
+   });
+   
+   
+});
+
 $(document).ready(function() {
 
-	var cod, desc, qntP, txtAvl, vlItem, vlItemQnt;
+	var cod, desc, qntP, txtAvl, vlItem, vlItemQnt,  lInst;
 	
       
 
  $('#ckItemNv').click(function () {
-
-        if ($('#ckItemNv').is(':checked') == true) {
+ if ($('#ckItemNv').is(':checked') == true) {
         		 $("#opAddnv").css("visibility", "visible");
             // alert(";)");
-      }
-     
+       document.getElementById("btnSubmit").disabled = true;
+	  }
+      
+ });
    
 
 $('input[name="inptAdditem"]')[0].focus();
   //    if (!$('input[name^=program]:checked').length) {
    // $('input[name^=program]')[0].focus();
-//}
+
     });
 
 $('#btAddnv').click(function () {
-
+vlInstnv = $('input[name="inptAdditemLoc"]').val();
 vlItem = $('input[name="inptAdditem"]').val();
 vlItemQnt = $('input[name="inptAdditemQnt"]').val();
 
 var addItem = document.getElementById('relItem')
-	  //var objDesc =  JSON.stringify(desc);
-	  //var objD = objDesc.toString().replace(/[""]/g,'');
-	 
- 
-   // alert('COD: ' + cod + " | DESC: " + desc+ " | Qnt-Ped: " + qntP);
 
-     // txtAvl = cod +";" +  desc +";"+  qntP;
-	 //var nvCod = 1000;
-	 //var nvCodx = nvCod.tostring();
-	  //addItem.style+.font = "Verdana";
-	  addItem.value+=+"999999"+";"+vlItem+";"+vlItemQnt+"\n";
-       // if ($('#ckItemNv').is(':checked') == true) {
-        		// $("#opAddnv").css("visibility", "visible");
-            // alert(";)");
-      //}
-      document.getElementById("bt_txtcsv").disabled = false;
+	 if ( (vlItem == "") || (vlItemQnt == "") || (vlInstnv == "")){
+		alert("Preencher todos campos para Continuar!")
+	 }else{
+		
+	  addItem.value+=+"999999"+";"+vlItem+";"+vlItemQnt+";"+vlInstnv+"\n";
+	  
+	  document.getElementById("bt_txtcsv").disabled = false;
 
       document.getElementById("addlItem").value = "";
       document.getElementById("addlItemQnt").value = "";
+	  document.getElementById("addlItemLoc").value = "";
+	 }
+       // if ($('#ckItemNv').is(':checked') == true) {
+        		// $("#opAddnv").css("visibility", "visible");
+            // alert(";)");
+     
+      
       
     });
+	
+	
+	
+	$('#btSelOpc').click(function() {
+		vlSelOp = document.getElementById('LocUnids');
+		
+		var vlQnt = $('.ClassInputVl');
+	var vlLoc = $('.ClassLocInst');
+  var chkboxes = $('.checkbox');
 
+  for(var i = 0; i < chkboxes.length; i++) {
+	  
+    if (chkboxes[i].checked && vlLoc[i].value == "") {
+		//alert("Faltou Preencher LOCALIZAÇÃO!")
+		vlLoc[i].value = vlSelOp.value;
+		
+  }
+  }
+});
+	
+//-------------------------Incluir ITEM
   $('#btnSubmit').click(function() {
+ var vlQnt = $('.ClassInputVl');
+	var vlLoc = $('.ClassLocInst');
+  var chkboxes = $('.checkbox');
 
+  for(var i = 0; i < chkboxes.length; i++) {
+	  
+    if (chkboxes[i].checked && vlQnt[i].value == "") {
+		alert("Inserir Qnt e Local Instalação para continuar!")
+	//alert(i);
+	return
+	}
+  }
+  	
 
 
  $('.row-select input:checked').each(function() {
+	 
+	
       
 
 cod = $(this).closest('tr').find('.cod').html();
       desc = $(this).closest('tr').find('.desc').html();
 	//	qnt = $(this).closest('input', '.txtVls').val();
 	 qntP = $(this).closest('tr').find("input[name='txtVls']").val();
+	 lInst = $(this).closest('tr').find("input[name='inputLocInst']").val();
 	 var addItem = document.getElementById('relItem')
 	  //var objDesc =  JSON.stringify(desc);
 	  //var objD = objDesc.toString().replace(/[""]/g,'');
 	 
- 
+	if ((qntP == "") || (lInst == "")){
+	alert("Inserir Qnt e Local Instalação!")
+	return
    // alert('COD: ' + cod + " | DESC: " + desc+ " | Qnt-Ped: " + qntP);
 
      // txtAvl = cod +";" +  desc +";"+  qntP;
 	 
 	  //addItem.style.font = "Verdana";
-	  addItem.value+=cod+";"+desc+";"+qntP+"\n";
-	   
-	   	
+	  
+	}else{
+		addItem.value+=cod+";"+desc+";"+qntP+";"+lInst+"\n";
+		document.getElementById("bt_txtcsv").disabled = false;
+	}
+	 	
 			   
     })
-  
+ 
       
 	//----------------------------------------------
 	 $(":checkbox").on("change", function() {
@@ -131,13 +242,10 @@ cod = $(this).closest('tr').find('.cod').html();
     $(this).parent().toggleClass("checked", this.checked);
   });
 
-document.getElementById("bt_txtcsv").disabled = false;
+
 
   })
 
-
-
-  
 
 //-------------------------LIMPAR
   
@@ -149,37 +257,67 @@ document.getElementById("bt_txtcsv").disabled = false;
 	 $(this).closest('tr').toggleClass("highlight", this.checked);
 	 //document.getElementById('txtVl').value = '';
 	 $('txtVl').val($(this).val(''));
-	 document.getElementById('relItem').value = "";
+	// document.getElementById('relItem').value = "";
 	 vlItem = $('input[name="inptAdditem"]').val('');
 	vlItemQnt = $('input[name="inptAdditemQnt"]').val('');
-	     document.getElementById('search-box').value = "";
+	
+	$('#search-box').val('');
+	     //document.getElementById('search-box').value = +"/n";
 	
 	 })
 	
   })
- // }
-})	
+ 
+//---------------Incluir indv lista
+$(document).ready(function(lisU) {
+	
+	 $(document).on('click','#myTable tr', function(lisU) {
+	//alert("aqui")
+	var lisU = new Array();
+ 
+var ln = (this.rowIndex);
+	
+   lisU = ln;
 
-
-//------------------------------------------------------------------
-$(document).ready(function() {
-
-	 $(document).on('click','#myTable tr', function() {
-
-        var ln = (this.rowIndex);
-        $('input[name="txtVls"]')[ln-1].focus();
-       //alert(ln);
-       
+        // var ln = (this.rowIndex);
+		
+		 // lInst = $(this).closest('tr').find("input[name='inputLocInst']").val();
+		// && ($("input[name='inputLocInst']").val(''))
+		//($("input[type='checkbox']").prop(':checked', true))
+	        if (($('input[name="inputLocInst"]')[ln-1].val() == "") ) {
+	//alert("aqui")
+	  $('input[name="inputLocInst"]')[ln-1].focus();
+	
+	  
+	  // $(this).prop('checked',true);
+	
+			}else if ($('input[name="inputLocInst"]').val() != ""){
+				
+				 $('input[name="txtVls"]')[ln-1].focus();
+				  // $('input[name="txtVls"]')[ln-1].focus();
+		// $("input[name='txtVls']").val(''))
+				// if (lInst == ""){
+				document.getElementById("LocUnids").disabled = true;
+				 // $('input[name="inputLocInst"]')[ln-1].focus();
+				 // document.getElementsByName('txtVls')[ln-1].value = "";
+			}
+			// alert(lisU+"array")
+			
     });
+	
+
+//----------------------------------------
+
+	
+	
+	
+	
     $("input[type='checkbox']").change(function(e) {
 
     	var $checkbox = $(this);
        	if ($checkbox.parent().is('td')) {
             $checkbox.closest('tr').toggleClass("highlight", this.checked);
-            
-
-         
-		
+            		
         } else {
             var index = $(this).parent('th').index();
             $(this).closest('table').find('tr').each(function() {
@@ -187,18 +325,38 @@ $(document).ready(function() {
 				
             });
 
-
         }
-
-
        
     });
+	return lisU;
+	document.getElementById("LocUnids").disabled = true;
 });
 
 //-----------------------------------------------------
 
 
 document.getElementById("bt_txtcsv").addEventListener("click", function () {
+	
+
+	var vlQnt = $('.ClassInputVl');
+	var vlLoc = $('.ClassLocInst');
+  var chkboxes = $('.checkbox');
+
+  for(var i = 0; i < chkboxes.length; i++) {
+	  
+    if (chkboxes[i].checked && vlLoc[i].value == "") {
+		alert("Faltou Preencher LOCALIZAÇÃO!")
+		
+	return
+	}else if (chkboxes[i].checked && vlQnt[i].value == ""){
+		alert("Faltou Preencher QUANTIDADE!")
+		
+		return
+		
+  }
+  }
+
+	
 
 if(confirm("Baixar Itens Relacionados?")){
 
@@ -207,7 +365,8 @@ if(confirm("Baixar Itens Relacionados?")){
       
         var csv = array.join(";");
       //  alert(csv);
-        var file = "data:text/csv;charset=utf-8," + csv + "\n";
+		var csvCol = 'COD;DESCRICAO;QNT;LOCALIZACAO\n';
+        var file = "data:text/csv;charset=utf-8," + csvCol + csv + "\n";
         var encoded_file = encodeURI(file);
         var link = document.createElement("a");
         link.setAttribute("href", encoded_file);
@@ -243,6 +402,134 @@ if(confirm("Baixar Itens Relacionados?")){
             return jQuery(elem).text().toUpperCase().indexOf(arg.toUpperCase()) >= 0;
         };
     });
+	 
+ 
+ 
+	
 }.call(this));
 
-}
+window.onload = function(){
+			// document.getElementById("search-box").addEventListener("search", lProcura);
+	
+			// function lProcura () {
+		   // var input = document.getElementById('search-box');
+		   // input.focus();
+			//input.keyCode == 32;
+document.getElementById('search-box').addEventListener("search");
+ };
+	
+	//var searcText = "";
+       // var input = document.getElementById('search-box');
+	 
+	//	input.value = 32;
+ 
+			$(document).ready(function() {
+				var str = new Array();
+			
+				 $("tr").click(function(event){
+				  str =	this.rowIndex;
+				   $(this).val(str);
+				  // var str = this.innerText;
+				  // var i = str.split('').indexOf("   ");
+				  // alert(str.slice(0, i));
+			  
+					return str;
+				})
+			
+				//-------Opção Tipo Localização
+				
+				
+	 
+						$('input:radio[name=rdSelLoc]').change(function() {
+							var nLoc;
+							var chekEbe = document.getElementById('rckEbe').checked;
+							var chekEta = document.getElementById('rckEta').checked;
+							var chekRes = document.getElementById('rckRes').checked;
+				
+							if (this.value == 'ebe' || chekEbe == true) {
+							  $('#LocUnids').html('').select2({	data: [] })
+								 document.getElementById("rInfo").checked = true;
+								nLoc = relUnidEBE;
+							}
+							else if (this.value == 'eta' || chekEta == true) {
+							$('#LocUnids').html('').select2({  data: [] })
+							 document.getElementById("rInfo").checked = true;
+								nLoc = relUnidETA;
+									  
+							}
+							else if (this.value == 'res' || chekRes == true) {
+								$('#LocUnids').html('').select2({  data: [] })
+							 document.getElementById("rInfo").checked = true;
+								nLoc = relUnidRES;
+								
+							}
+							
+							
+									var array = JSON.parse(nLoc);
+									
+								
+
+									 newArray = [];
+									for (var i = 0; i < array.length; i++) {
+										var singleElement = array[i];
+										var Loc = singleElement.Loc;
+										newArray.push(Loc);
+									}
+					//alert(newArray);
+									var LocU = newArray;
+									
+									var locInst = $("#LocUnids").select2({
+									  data: LocU
+										
+									});
+						});
+				// return str;
+				$("#LocUnids").change(function(){
+					
+					var vlQnt = $('.ClassInputVl');
+					
+					var chkboxes = $('.checkbox');
+
+					for(var i = 0; i < chkboxes.length; i++) {
+					  
+					
+					if (chkboxes[i].checked && vlQnt[i].value != ""){
+						$('input[name="txtVls"]')[i].focus();
+						
+						return
+						
+				  }
+				  }
+					
+					
+					
+					
+					// var strx = $("tr").val(str);
+					 ckAddItem = document.getElementById("ckItemNv").checked
+					 
+					var selectedId = $(this).find(".check").attr("id")
+					var locInst =  document.getElementById('LocUnidAdd').innerHTML = $(this).val();//locInst.options[locInst.selectedIndex].text;
+					// alert(str+"BLZ");
+						if (ckAddItem == true){
+					
+						document.getElementById("addlItemLoc").value = locInst;
+						
+						}else{						
+				 
+					   document.getElementsByName('inputLocInst')[str-1].value = locInst;
+					   $('input[name="txtVls"]')[str-1].focus();
+						
+						
+					}
+				 
+				 
+					
+				});
+				
+			});
+			
+			
+ 
+
+};
+
