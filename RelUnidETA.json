@@ -1,0 +1,66 @@
+var relUnidETA =`[
+  {
+    "Loc": "245-ATLANTIDA"
+  },
+  {
+    "Loc": "046-CAPAO DA CANOA 1"
+  },
+  {
+    "Loc": "046-CAPAO DA CANOA 2"
+  },
+  {
+    "Loc": "046-CURUMIM"
+  },
+  {
+    "Loc": "226-TORRES"
+  },
+  {
+    "Loc": "046-ARACA (OU 1)"
+  },
+  {
+    "Loc": "046-SAO JORGE (OU 2)"
+  },
+  {
+    "Loc": "046-GUARANI"
+  },
+  {
+    "Loc": "226-MAMPITUBA"
+  },
+  {
+    "Loc": "226-OCEAN SIDE"
+  },
+  {
+    "Loc": "245-FIGUEIRINHA"
+  },
+  {
+    "Loc": "245-XANGRI-LA"
+  },
+  {
+    "Loc": "245-ATLANTIDA"
+  },
+  {
+    "Loc": "046-CAPAO DA CANOA"
+  },
+  {
+    "Loc": "046-CURUMIM"
+  },
+  {
+    "Loc": "226-TORRES"
+  },
+  {
+    "Loc": "226-CENTENARIUO (EBAT-3)"
+  },
+  {
+    "Loc": "226-CENTENARIO (EBAT-7)"
+  },
+  {
+    "Loc": "226-SAO JOAO (EBAT-4)"
+  },
+  {
+    "Loc": "226-SAO JORGE (EBAT-5)"
+  },
+  {
+    "Loc": "226-PRAIA REAL (EBAT-8 OU EAT-2 PROJETO)"
+  }
+]
+`;
