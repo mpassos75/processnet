@@ -23,7 +23,7 @@ for (var i = 0; i < array.length; i++) {
 
 
 function myFun(){
- var data = JSON.parse(datax);
+ var data = JSON.parse(saldo);
                
 
 var lTab = document.getElementById("myTable");	
